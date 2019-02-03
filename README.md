@@ -1,2 +1,2 @@
 # practicedemos
-These are the practice demos on Serialization, Externaization
+These are the practice demos on Serialization, Externalisation

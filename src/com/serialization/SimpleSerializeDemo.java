@@ -71,7 +71,7 @@ public class SimpleSerializeDemo {
 		e.setEmpid("PC-578");
 		e.setEmpname("Prashant");
 		e.setEmpplace("Pune");
-		e.setEmpcontact("7709459442");
+		e.setEmpcontact("9999999999");
 		System.out.println(e);
 		
 		ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("/tmp/Emp.ser"));
